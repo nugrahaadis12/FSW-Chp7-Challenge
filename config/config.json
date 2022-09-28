@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "nugrahaadis",
+    "password": "kepobanget12",
+    "database": "fixchallange7",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "nugrahaadis",
+    "password": "kepobanget12",
+    "database": "fixchallange7",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "nugrahaadis",
+    "password": "kepobanget12",
+    "database": "fixchallange7",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
